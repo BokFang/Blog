@@ -11,3 +11,5 @@
      
 > ES6系列  
 - [1. ES6 之let和const](https://github.com/BokFang/Blog/issues/5)
+- [1. ES6 之模板字符串](https://github.com/BokFang/Blog/issues/6)
+- [1. ES6 之箭头函数](https://github.com/BokFang/Blog/issues/7)
