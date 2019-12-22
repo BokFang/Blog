@@ -12,6 +12,9 @@
 - [3. JavaScript 之深拷贝与浅拷贝](https://github.com/BokFang/Blog/issues/3)
 - [4. JavaScript 之事件冒泡和捕获](https://github.com/BokFang/Blog/issues/4)  
 - [5. JavaScript 之包装对象](https://github.com/BokFang/Blog/issues/12)  
+- [6. Javascript之原型和原型链](https://github.com/BokFang/Blog/issues/15)  
+
+
 
      
 > ES6系列  
