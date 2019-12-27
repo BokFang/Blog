@@ -6,6 +6,7 @@
 > CSS系列
 - [1. CSS居中方案大全](https://github.com/BokFang/Blog/issues/10)
 
+
 > JavaScript原理理解系列  
 - [1. JavaScript 之递归](https://github.com/BokFang/Blog/issues/1)
 - [2. JavaScript 之闭包](https://github.com/BokFang/Blog/issues/2)
@@ -13,7 +14,7 @@
 - [4. JavaScript 之事件冒泡和捕获](https://github.com/BokFang/Blog/issues/4)  
 - [5. JavaScript 之包装对象](https://github.com/BokFang/Blog/issues/12)  
 - [6. Javascript之原型和原型链](https://github.com/BokFang/Blog/issues/15)  
-
+- [7. Javascript之数据类型判断 ](https://github.com/BokFang/Blog/issues/18)  
 
 
      
@@ -23,6 +24,7 @@
 - [3. ES6 之箭头函数](https://github.com/BokFang/Blog/issues/7)
 - [4. ES6 之类与继承](https://github.com/BokFang/Blog/issues/8)
 - [5. ES6 之模块化](https://github.com/BokFang/Blog/issues/11)
+
 
 
 > 性能优化
