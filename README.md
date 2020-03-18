@@ -6,6 +6,7 @@
 > CSS系列
 - [1. CSS居中方案大全](https://github.com/BokFang/Blog/issues/10)
 - [2. 理解BFC](https://github.com/BokFang/Blog/issues/19)
+- [3. flex布局](https://github.com/BokFang/Blog/issues/21)
 
 > JavaScript原理理解系列  
 - [1. JavaScript 之递归](https://github.com/BokFang/Blog/issues/1)
