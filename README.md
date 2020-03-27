@@ -16,6 +16,7 @@
 - [5. JavaScript 之包装对象](https://github.com/BokFang/Blog/issues/12)  
 - [6. Javascript之原型和原型链](https://github.com/BokFang/Blog/issues/15)  
 - [7. Javascript之数据类型判断 ](https://github.com/BokFang/Blog/issues/18)  
+- [8. Javascript之跨域方案总结 ](https://github.com/BokFang/Blog/issues/22)  
 
 
      
