@@ -17,6 +17,8 @@
 - [6. Javascript之原型和原型链](https://github.com/BokFang/Blog/issues/15)  
 - [7. Javascript之数据类型判断 ](https://github.com/BokFang/Blog/issues/18)  
 - [8. Javascript之跨域方案总结 ](https://github.com/BokFang/Blog/issues/22)  
+- [9. Javascript之异步编程方案 ](https://github.com/BokFang/Blog/issues/23)  
+
 
 
      
