@@ -14,10 +14,11 @@
 - [3. JavaScript 之深拷贝与浅拷贝](https://github.com/BokFang/Blog/issues/3)
 - [4. JavaScript 之事件冒泡和捕获](https://github.com/BokFang/Blog/issues/4)  
 - [5. JavaScript 之包装对象](https://github.com/BokFang/Blog/issues/12)  
-- [6. Javascript之原型和原型链](https://github.com/BokFang/Blog/issues/15)  
-- [7. Javascript之数据类型判断 ](https://github.com/BokFang/Blog/issues/18)  
-- [8. Javascript之跨域方案总结 ](https://github.com/BokFang/Blog/issues/22)  
-- [9. Javascript之异步编程方案 ](https://github.com/BokFang/Blog/issues/23)  
+- [6. Javascript之this ](https://github.com/BokFang/Blog/issues/24)  
+- [7. Javascript之原型和原型链](https://github.com/BokFang/Blog/issues/15)  
+- [8. Javascript之数据类型判断 ](https://github.com/BokFang/Blog/issues/18)  
+- [9. Javascript之跨域方案总结 ](https://github.com/BokFang/Blog/issues/22)  
+- [10. Javascript之异步编程方案 ](https://github.com/BokFang/Blog/issues/23)  
 
 
 
