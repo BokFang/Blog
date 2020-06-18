@@ -1,7 +1,7 @@
 # Blog
 个人博客笔记汇总处，主要总结前端学习各方面的知识点  
 目前正在更新CSS、Javascript原理理解系列和ES6系列  
-预计后续还会加入有关```网络、vue```等方面的笔记。
+预计后续还会加入有关```计算机网络、vue```等方面的笔记。
 ## 文章
 > CSS系列
 - [1. CSS居中方案大全](https://github.com/BokFang/Blog/issues/10)
